@@ -1,8 +1,5 @@
-Why yes, this is very important information, TOP SECRET, even!
+This is very interesting information, which everyone will find insightful...
 
+**2 + 2 = 4**
 
-
-
-
-
-ur a boikisr, lul :3
+Isn't it wonderful? *:D*
