@@ -1,8 +1,7 @@
-Why yes, this is very important information, TOP SECRET, even!
+Hi, this will be some important file, I guess :P
 
-
-
-
-
-
-ur a boikisr, lul :3
+- [Как сделать новый коммит](./commit_help.md)
+- [Как упростить команды](./alias_help.md)
+- [Как просмотреть историю](./log_help.md)
+- [Как вернуться к прошлой версии проекта](./reset_help.md)
+- [Ветвление](./branch_help.md)
